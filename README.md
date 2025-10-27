@@ -147,24 +147,25 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 
 ## 🎯 Current Learning Goals
 
-const learningPath = {
-  advanced_ai: [
-    "🤖 Deep Learning with PyTorch",
-    "🧠 Computer Vision Applications",
-    "💬 Natural Language Processing"
-  ],
-  cloud_computing: [
-    "☁️ Advanced AWS Services",
-    "🐳 Kubernetes Orchestration",
-    "⚙️ Microservices Architecture"
-  ],
-  full_stack: [
-    "⚛️ React.js & Next.js",
-    "🔗 GraphQL & Apollo",
-    "⚡ Real-time Applications"
-  ],
-  focus: "🚀 Building AI-powered, scalable web applications"
-};
+### 🧠 Advanced AI  
+- 🤖 Deep Learning with **PyTorch**  
+- 🧩 Computer Vision Applications  
+- 💬 Natural Language Processing  
+
+### ☁️ Cloud Computing  
+- 🧱 Advanced **AWS Services**  
+- 🐳 **Kubernetes Orchestration**  
+- ⚙️ **Microservices Architecture**  
+
+### 💻 Full-Stack Development  
+- ⚛️ **React.js** & **Next.js**  
+- 🔗 **GraphQL** & **Apollo**  
+- ⚡ Real-time Applications  
+
+---
+
+### 🚀 Focus  
+Building **AI-powered, scalable web applications** that combine intelligence, performance, and cloud efficiency.
 
 
 ## 🤝 Let's Connect!
