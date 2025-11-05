@@ -136,7 +136,7 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 🏅 *Google UX Design* - Foundations of User Experience (Coursera)  
 ☁ *AWS Academy Graduate* - Cloud Foundations & Cloud Architecting (July 2023)  
 💻 *Smart Interviews* - Data Structures & Algorithms with Java  
-🏆 *Academic Excellence* - CGPA 8.22 | SSC 10/10 | Intermediate 81%  
+🏆 *Academic Excellence* - CGPA 8.11 | SSC 10/10 | Intermediate 81%  
 👨‍💻 *CodeChef Profile:* [md_mastan](https://codechef.com/users/md_mastan)
 
 ## 📈 Coding Activity
