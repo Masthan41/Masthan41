@@ -6,7 +6,7 @@
 
 I'm a passionate *Full Stack Developer* and *CSE student* at CMR Engineering College with a strong focus on **scalable systems**, **problem-solving**, and **distributed computing**. Currently exploring the fascinating world of AI/ML while building impactful **web applications**.
 
-- 🎓 *Computer Science Engineering* student at CMR Engineering College (Expected: June 2026)
+- 🎓 *Computer Science Engineering* student at CMR Engineering College (Expected: May 2026)
 - 🏆 *CGPA:* 8.11/10 | *Academic Excellence* with 10/10 CGPA in SSC
 - 🤖 *AI/ML Intern* with hands-on experience in real-world projects
 - 💡 *Freelancer* specializing in website development and maintenance
