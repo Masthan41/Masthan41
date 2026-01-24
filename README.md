@@ -1,13 +1,15 @@
 # Hi there, I'm Mohammed Masthan! 👋
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Problem+Solver+%26+Code+Craftsman+⚡;Building+Scalable+Systems+🚀" alt="Typing SVG" />
+</div>
 
 ## 🚀 About Me
 
-I'm a passionate *Full Stack Developer* and *CSE student* at CMR Engineering College with a strong focus on **scalable systems**, **problem-solving**, and **distributed computing**. Currently exploring the fascinating world of AI/ML while building impactful **web applications**.
+I'm a passionate *Full Stack Developer* and *CSE student* at CMR Engineering College with a strong focus on *scalable systems, **problem-solving, and **distributed computing*. Currently exploring the fascinating world of AI/ML while building impactful web applications.
 
-- 🎓 *Computer Science Engineering* student at CMR Engineering College (Expected: May 2026)
-- 🏆 *CGPA:* 8.11/10 | *Academic Excellence* with 10/10 CGPA in SSC
+- 🎓 *Computer Science Engineering* student at CMR Engineering College (Expected: June 2026)
+- 🏆 *CGPA:* 8.22/10 | *Academic Excellence* with 10/10 in SSC
 - 🤖 *AI/ML Intern* with hands-on experience in real-world projects
 - 💡 *Freelancer* specializing in website development and maintenance
 - 🌟 *AWS Academy Graduate* in Cloud Foundations & Cloud Architecting
@@ -136,7 +138,7 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 🏅 *Google UX Design* - Foundations of User Experience (Coursera)  
 ☁ *AWS Academy Graduate* - Cloud Foundations & Cloud Architecting (July 2023)  
 💻 *Smart Interviews* - Data Structures & Algorithms with Java  
-🏆 *Academic Excellence* - CGPA 8.11 | SSC 10/10 | Intermediate 81%  
+🏆 *Academic Excellence* - CGPA 8.22 | SSC 10/10 | Intermediate 81%  
 👨‍💻 *CodeChef Profile:* [md_mastan](https://codechef.com/users/md_mastan)
 
 ## 📈 Coding Activity
@@ -147,35 +149,32 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 
 ## 🎯 Current Learning Goals
 
-### 🧠 Advanced AI  
-- 🤖 Deep Learning with **PyTorch**  
-- 🧩 Computer Vision Applications  
-- 💬 Natural Language Processing  
-
-### ☁️ Cloud Computing  
-- 🧱 Advanced **AWS Services**  
-- 🐳 **Kubernetes Orchestration**  
-- ⚙️ **Microservices Architecture**  
-
-### 💻 Full-Stack Development  
-- ⚛️ **React.js** & **Next.js**  
-- 🔗 **GraphQL** & **Apollo**  
-- ⚡ Real-time Applications  
-
----
-
-### 🚀 Focus  
-Building **AI-powered, scalable web applications** that combine intelligence, performance, and cloud efficiency.
+javascript
+const learningPath = {
+  advanced_ai: [
+    "Deep Learning with PyTorch",
+    "Computer Vision Applications", 
+    "Natural Language Processing"
+  ],
+  cloud_computing: [
+    "Advanced AWS Services",
+    "Kubernetes Orchestration",
+    "Microservices Architecture"
+  ],
+  full_stack: [
+    "React.js & Next.js",
+    "GraphQL & Apollo",
+    "Real-time Applications"
+  ],
+  focus: "Building AI-powered scalable web applications"
+};
 
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/md-masthan-6bb310272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-masthan-6bb310272/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Masthan41)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmastan633@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/md_mastan)
@@ -196,4 +195,3 @@ Building **AI-powered, scalable web applications** that combine intelligence, pe
 Currently pursuing CSE at CMR Engineering College | Open to collaboration opportunities in Full-Stack Development and AI/ML projects!
 
 </div>
-
