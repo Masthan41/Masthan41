@@ -7,6 +7,14 @@
   />
 </div> 
 
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+SDE+%7C+SWE+👨‍💻;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Problem+Solver+%26+Code+Craftsman+⚡;Building+Scalable+Systems+🚀"
+    alt="Typing SVG"
+  />
+</div>
+
+
 
 ## 🚀 About Me
 
