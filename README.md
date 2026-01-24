@@ -1,19 +1,11 @@
 # Hi there, I'm Mohammed Masthan! 👋
 
-<!-- <div align="center">
+<div align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Problem+Solver+%26+Code+Craftsman+⚡;Building+Scalable+Systems+🚀"
     alt="Typing SVG"
   />
-</div> -->
-
-<div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+SDE+%7C+SWE+👨‍💻;Full+Stack+Developer+💻;AI+%26+ML+Enthusiast+🤖;Problem+Solver+%26+Code+Craftsman+⚡;Building+Scalable+Systems+🚀"
-    alt="Typing SVG"
-  />
-</div>
-
+</div> 
 
 
 ## 🚀 About Me
