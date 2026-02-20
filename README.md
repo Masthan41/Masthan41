@@ -133,7 +133,27 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 ## 🏆 GitHub Achievements & Coding Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Masthan41&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+
+  <!-- Typing Intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Md+Masthan;Java+Developer;DSA+Enthusiast;Building+My+Future+One+Commit+at+a+Time" alt="Typing SVG" />
+
+  <br><br>
+
+  <!-- Stats -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Masthan41&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Masthan41&theme=tokyonight&hide_border=true&border_radius=10" />
+
+  <br><br>
+
+  <!-- Top Languages -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masthan41&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+
+  <br><br>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Masthan41&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+
 </div>
 
 ## 🎓 Certifications & Achievements
@@ -154,24 +174,27 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 
 javascript
 const learningPath = {
-  advanced_ai: [
-    "Deep Learning with PyTorch",
-    "Computer Vision Applications", 
-    "Natural Language Processing"
-  ],
-  cloud_computing: [
-    "Advanced AWS Services",
-    "Kubernetes Orchestration",
-    "Microservices Architecture"
-  ],
-  full_stack: [
-    "React.js & Next.js",
-    "GraphQL & Apollo",
-    "Real-time Applications"
-  ],
-  focus: "Building AI-powered scalable web applications"
-};
+  
+  🤖 advancedAI: {
+    deepLearning: "Deep Learning with PyTorch",
+    computerVision: "Building Computer Vision Applications",
+    naturalLanguageProcessing: "Advanced NLP Systems"
+  },
 
+  ☁️ cloudComputing: {
+    aws: "Advanced AWS Services & Architecture",
+    kubernetes: "Container Orchestration with Kubernetes",
+    microservices: "Designing Scalable Microservices"
+  },
+
+  🌐 fullStackDevelopment: {
+    frontend: "Modern UI with React.js & Next.js",
+    api: "GraphQL & Apollo Ecosystem",
+    realtime: "Real-time Applications with WebSockets"
+  },
+
+  🚀 ultimateGoal: "Building AI-powered, scalable, production-ready web applications"
+};
 
 ## 🤝 Let's Connect!
 
