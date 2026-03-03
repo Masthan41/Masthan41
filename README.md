@@ -121,29 +121,10 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Masthan41&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=Masthan41&theme=tokyonight&hide_border=true" height="180"/>
-
-</div> 
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masthan41&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div> -->
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Masthan41&theme=tokyonight&hide_border=true" height="180"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Masthan41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-</div>
+</div> 
+<br>
 
 
 ## 🎓 Certifications & Achievements
