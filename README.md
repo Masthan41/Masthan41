@@ -122,9 +122,14 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masthan41&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masthan41&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</div>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Masthan41&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=Masthan41&theme=tokyonight&hide_border=true" height="180"/>
+
+</div> 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masthan41&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -147,29 +152,24 @@ Tech Stack: HTML5 • CSS3 • JavaScript
 
 ## 🎯 Current Learning Goals
 
-const learningPath = {
+## Advanced AI
+- Generative AI & Large Language Models
+- Deep Learning with PyTorch
+- Advanced NLP Systems
+- Prompt Engineering & Retrieval-Augmented Generation (RAG)
 
-  advancedAI: {
-    generativeAI: "Generative AI & Large Language Models",
-    deepLearning: "Deep Learning with PyTorch",
-    nlp: "Building Advanced NLP & LLM Applications",
-    llmEngineering: "Prompt Engineering & RAG Systems"
-  },
+## Cloud & Systems
+- Advanced AWS Architecture
+- Kubernetes & Container Orchestration
+- Designing Scalable Distributed Systems
 
-  cloudComputing: {
-    aws: "Advanced AWS Architecture",
-    kubernetes: "Container Orchestration with Kubernetes",
-    systemDesign: "Designing Scalable Distributed Systems"
-  },
+## Full Stack Development
+- Modern UI with React.js & Next.js
+- Building Robust APIs with Node.js
+- Real-time Applications with WebSockets
 
-  fullStackDevelopment: {
-    frontend: "Modern UI with React.js & Next.js",
-    backend: "Building Robust APIs with Node.js",
-    realtime: "Real-time Systems with WebSockets"
-  },
-
-  ultimateGoal: "Building AI-powered, scalable, production-ready applications"
-};
+## Ultimate Goal
+Build AI-powered, scalable, production-ready applications that solve real-world problems.
 
 ## 🤝 Let's Connect!
 
