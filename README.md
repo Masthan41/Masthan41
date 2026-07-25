@@ -14,7 +14,6 @@ I'm a passionate *Full Stack Developer* and *CSE student* at CMR Engineering Col
 - 🎓 *Computer Science Engineering* student at CMR Engineering College (Nov 2022 - July 2026)
 - 🏆 *CGPA:* 8.13/10 | *Academic Excellence* with 10/10 in SSC Board
 - 🤖 *AI/ML Intern* with hands-on experience in real-world projects
-- 💡 *Freelancer* specializing in website development and maintenance
 - 🌟 *AWS Academy Graduate* in Cloud Foundations & Cloud Architecting
 
 ## 🛠 Tech Stack & Skills
