@@ -22,7 +22,7 @@ I enjoy breaking down complex programming concepts into simple, practical ideas 
 - 🧑‍🏫 Experienced in **student mentoring, debugging & hands-on coding**
 - 💻 **550+ coding problems solved**
 - 🏆 Participated in **30+ coding contests**
-- 🚀 Interested in building practical software and helping developers grow
+- 🚀 Interested in building practical software and helping developers growth 
 
 ---
 
